@@ -18,7 +18,7 @@
 
 ## 示範影片
 
-YouTube：**【上傳影片後將此處換成實際連結】**
+YouTube：(https://youtu.be/eYHzu3pS6oY)
 
 ## 系統需求
 
@@ -92,5 +92,5 @@ python -m pip install -r requirements.txt
 
 - 姓名：曾祥鎰
 - 學號：61575042H
-- 課程：物聯網
+- 課程：1151物聯網概論與應用(Introduction and Application of Internet of Things)
 
